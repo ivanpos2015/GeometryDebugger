@@ -2,7 +2,6 @@ GeometryDebugger
 ================
 
 A tool for debugging geometric, graph and computer vision algorithms.
-Can be used for practising algorithms and data structures in Computer Graphics field.
 
 Contains 3D renderer based on DirectX11 and DirectXMath library.
 Currently can be succesfully built using VS2012 on a Win8 machine with SSE/SSE2 instruction support.
